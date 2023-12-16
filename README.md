@@ -5,6 +5,15 @@
 | HBNU | Heegwan Shin | Computer Engineering |
 | CMU | Jeongmin Kim | Software Engineering |
 
+## 📜 서비스 내용
+스마트 그린 캠퍼스 주제로 학교 전체 강의실마다 에너지 소비 효율을 분석하고 제어하자는 큰 목표안에 속한 소규모 프로젝트입니다.  
+태양광에너지, PMV, 창문 스마트 필름 팀들과 연계되어 있습니다.  
+프로젝트 기간의 한계로 간단하게 아두이노와 센서를 활용하여 데이터를 수집하고 NoSQL을 활용하여 데이터를 시각화 하였습니다.
+
+## 💻 Tech Stack
+
+## 💡 성장 경험
+
 ## Our roles in Smart Green Campus Project
 ```
 • We are responsible for collecting and processing data in smart campus project.
